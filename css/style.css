@@ -1,0 +1,313 @@
+.body {
+  font-family: Inter;
+}
+
+.header {
+  background: linear-gradient(251deg, #461096 0.57%, #7f3ce0 99.97%);
+  margin-bottom: 100px;
+}
+
+.my-custom-navbar-nav {
+  margin-left: auto;
+}
+
+.header-logo h6 {
+  color: #2657a4;
+
+  font-family: Inter;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 150%; /* 45px */
+  letter-spacing: 0.3px;
+}
+.navbar-brand .span {
+  color: #2657a4;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 150%; /* 45px */
+  letter-spacing: 0.3px;
+}
+.custom-img {
+  margin-right: 50px;
+}
+.custom-img img {
+  height: 330.678px;
+  width: 530px;
+  margin-left: 80px;
+}
+.custom-head h1 {
+  color: white;
+
+  font-size: 60px;
+}
+.custom-head p {
+  color: white;
+}
+.custom-head .btn {
+  background-color: #37cdf5;
+}
+.sub-head {
+  margin-top: 30px;
+  padding-bottom: 70px;
+}
+.btn {
+  background-color: #37cdf5;
+  color: white;
+  font-weight: bold;
+}
+.nav-item a {
+  color: white;
+  margin-right: 5px;
+}
+
+/* ///////////////////////content */
+.content-img {
+  margin-left: -100px;
+  margin-top: -20px;
+}
+.content-img img {
+  height: 450.678px;
+  width: 650px;
+  margin-right: auto;
+}
+.content-text h3 {
+  color: var(--Black, #051114);
+
+  /* Subtitle / Base */
+  font-family: Inter;
+  font-size: 30px;
+  font-style: regular;
+  font-weight: 600;
+  line-height: 130%; /* 57.2px */
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.con img {
+  margin-right: 10px;
+}
+.content-text-point h5 {
+  color: var(--Black, #051114);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: regular;
+  font-weight: 500;
+  line-height: 150%; /* 37.5px */
+}
+.content-text-point p {
+  color: var(--Black, #051114);
+  /* font-family: Inter; */
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 22.4px */
+  margin-left: 38px;
+}
+.content {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+/* //////////////////////////////////Features */
+.feature-1 h3 {
+  color: var(--Black, #051114);
+  /* text-align: center; */
+  /* Subtitle / Base */
+  font-family: Inter;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%; /* 57.2px */
+}
+
+/* .card-img-1-overlay img {
+  width: 258px;
+  height: 209px;
+  flex-shrink: 0;
+} */
+.card body {
+  background: url(../image/Rectangle\ 61.png);
+}
+/* ///////////////////////pricing plan */
+.custom-card h6 {
+  color: var(--Black, #424246);
+  text-align: center;
+  /* Subheading / Base */
+  font-family: Inter;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 33px */
+  margin-top: 20px;
+}
+.custom-card img {
+  margin-left: 100px;
+}
+.custom-card h2 {
+  text-align: center;
+}
+.custom-card p {
+  margin-top: 30px;
+  color: var(--Black, #5a5c5c);
+  text-align: center;
+  /* Body / Base */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 25.6px */
+  margin-bottom: 15px;
+}
+.custom-card .btn {
+  background: rgba(66, 180, 238, 0.1);
+  color: #42b4ee;
+  margin-left: 70px;
+  display: inline-flex;
+  padding: 15px 30px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+/* ////////////////////////////Review */
+.custom-review h1 {
+  color: var(--Black, #000205);
+  text-align: center;
+  /* Subtitle / Base */
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 44px;
+  font-style: regular;
+  font-weight: 600;
+  line-height: 130%; /* 57.2px */
+  margin-top: 70px;
+}
+.custom-text p {
+  color: var(--Black, #757575);
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: regular;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+  margin-bottom: 60px;
+}
+.custom-body p {
+  margin-left: 30px;
+  margin-right: 110px;
+  margin-bottom: 30px;
+}
+.card-sub {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+}
+.card-sub img {
+  margin-right: 25px;
+}
+.custom-icon img {
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 50px;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+/* ////////////////////latest news */
+.custom-con {
+  margin-bottom: 140px;
+}
+.custom-news-head h1 {
+  margin-top: 50px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.custom-news-col img {
+  width: 100%;
+}
+.custom-news-body p {
+  margin-top: 10px;
+  color: var(--Black, #2f3131);
+  /* Body / Base */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 25.6px */
+}
+/* .custom-news-body h5 {
+  margin-top: 10px;
+  margin-bottom: 50px;
+} */
+.custom-body-1 p {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 100px;
+}
+.custom-body-1 button {
+  margin-left: 20px;
+  border: none;
+}
+
+.footer {
+  margin-top: 100px;
+  background: #051114;
+  padding-top: 50px;
+}
+.footer-img img {
+  width: 44.828px;
+  height: 50.825px;
+}
+/* .img2 img {
+  width: 150.828px;
+} */
+.column-2 p {
+  color: #fff;
+  margin-top: 30px;
+  /* Body / Base */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: regular;
+  font-weight: 300;
+  line-height: 130%; /* 25.6px */
+}
+.column-1 ul {
+  margin-top: 20px;
+
+  align-items: start;
+}
+.column-1 ul a {
+  /* margin-left: 10px;
+  margin-right: 20px;
+  justify-content: start;
+  align-items: start; */
+
+  color: #fff;
+
+  font-family: Inter;
+  font-size: 16px;
+  font-style: regular;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+  gap: 2px;
+  margin-left: -10px;
+  /* inline-size: 5px; */
+  line-height: 15px;
+}
+.column-1 h5 {
+  color: white;
+}
+.Copyright {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  color: white;
+  border-top: 1px solid rgb(78, 77, 77);
+  padding-top: 30px;
+
+  font-family: Inter;
+  font-size: 16px;
+  font-style: regular;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
